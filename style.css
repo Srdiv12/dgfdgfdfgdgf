@@ -1,0 +1,23 @@
+body
+{
+    
+    color: green;
+    background-image:url("https://i.pinimg.com/originals/db/11/c2/db11c2a750c13f9db20306ce28daf531.png");
+    background-size:cover;
+}
+
+.heading
+{
+width: 80%;
+font: size 22px;
+}
+#camera
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects, #result_object_name  , #result_object_accuracy
+{
+    color:aquamarine;
+}
